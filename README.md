@@ -32,7 +32,6 @@
                 <img src="img\Cynessa Drone Tessa Handshake no WM.png" class="img-fluid rounded-4">
             </div>
           </div>
-        </div>
 ```
 
 ### 3x3 columns per row 
