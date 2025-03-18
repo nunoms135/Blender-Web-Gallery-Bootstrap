@@ -1,7 +1,7 @@
 # Blender Web Gallery Bootstrap
 
 ## Requirements
- - [Bootstrap version 5.3.3](https://getbootstrap.com/)
+ - [Bootstrap v5.3.3](https://getbootstrap.com/)
  - [Node.JS](https://nodejs.org/en)
 
 
