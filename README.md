@@ -7,6 +7,8 @@
 
 ## Image Layouts
 
+All image resolution is 1000x1000 
+
 ### 6 columns per row
 
 ![Screenshot 2025-03-18 114610](https://github.com/user-attachments/assets/38d84e22-6f0d-4881-95e6-1ba1c73ed65e)
