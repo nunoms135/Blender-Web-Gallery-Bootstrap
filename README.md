@@ -1,4 +1,4 @@
-# Blender Web Gallery Bootstrap
+# Blender Web Gallery Bootstrap Edition
 
 ## Requirements
  - [Bootstrap v5.3.3](https://getbootstrap.com/)
